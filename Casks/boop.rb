@@ -1,6 +1,6 @@
 cask "boop" do
-  version "0.1.0"
-  sha256 "9a77056f52062db02a134af2736fcbf627ce12c26be586cfa61b166aab9edad4"
+  version "0.1.1"
+  sha256 "af625f4d0a5028575f38f07aeb0d6f253ad1fd43b319fcc5163aae99fceebd69"
 
   url "https://github.com/fayazara/boop/releases/download/v#{version}/Boop.dmg"
   name "Boop"
