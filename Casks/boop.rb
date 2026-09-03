@@ -4,7 +4,7 @@ cask "boop" do
 
   url "https://github.com/fayazara/boop/releases/download/v#{version}/Boop.dmg"
   name "Boop"
-  desc "Native macOS menu bar screenshot and screen recording tool"
+  desc "Menu bar app that improves selected text using your own AI gateway"
   homepage "https://github.com/fayazara/boop"
 
   auto_updates true
@@ -13,6 +13,5 @@ cask "boop" do
 
   zap trash: [
     "~/Library/Preferences/com.fayazahmed.Boop.plist",
-    "~/Library/Application Support/Boop",
   ]
 end
