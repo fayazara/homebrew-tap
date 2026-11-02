@@ -1,6 +1,6 @@
 cask "screendrop" do
-  version "0.37.0"
-  sha256 "8310cad0918bf12ccf3d8964192a6b37e7461b1d324d83bca7b1cff4fce65bce"
+  version "0.37.1"
+  sha256 "faa7bc2e3413645decba605076e6b649589e96db533280e28fa5309eccefd4a4"
 
   url "https://github.com/fayazara/screendrop/releases/download/v#{version}/Screendrop.dmg"
   name "Screendrop"
