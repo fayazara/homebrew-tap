@@ -1,6 +1,6 @@
 cask "bucket-list" do
-  version "0.1.2"
-  sha256 "cc2d80fa17ed13a275b9df52cd020f2f9c983d912eae780b0b8bec27cf374b50"
+  version "0.1.3"
+  sha256 "c4a3bbb98dc337bef2e1532c11774972eafb4b1ff0820054727c121483fca195"
 
   url "https://github.com/fayazara/BucketList/releases/download/v#{version}/BucketList.dmg"
   name "Bucket List"
