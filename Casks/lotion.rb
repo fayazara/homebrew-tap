@@ -1,6 +1,6 @@
 cask "lotion" do
-  version "0.0.11"
-  sha256 "cb8087166f2f0a47bf818cc4eb33da22456a698a6a1d24470c8777e7941c1f40"
+  version "0.0.12"
+  sha256 "2988d15cf9e5a645ffdfaf562ace0ace74fba5063972090a825ce1f48d839fa5"
 
   url "https://github.com/fayazara/Lotion/releases/download/v#{version}/Lotion.dmg"
   name "Lotion"
